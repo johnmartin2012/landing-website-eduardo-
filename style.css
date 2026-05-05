@@ -179,7 +179,7 @@ ul { list-style: none; }
   justify-content: center;
   text-align: center;
   background:
-    url('assets/hero-bg.png') center/cover no-repeat,
+    url('assets/hero-bg.webp') center/cover no-repeat,
     linear-gradient(135deg, var(--dark) 0%, #1a4040 100%);
   padding-top: var(--nav-h);
 }
